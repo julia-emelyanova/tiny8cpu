@@ -1,5 +1,7 @@
 # tiny8cpu
 
+![Demonstration](img/demo.gif)
+
 ## 1. Overview
 
 **tiny8cpu** is a minimalist 8-bit CPU implemented in Logisim Evolution, designed as an educational project to demonstrate CPU architecture, ALU design, and control signal decoding.
