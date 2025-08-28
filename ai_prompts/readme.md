@@ -3,7 +3,7 @@
 # A prompt to translate Instruction Set opcodes to ROM hex table
 
 ```
-Translate into control rom contents, where the first line is an address at which contents could be read, and the second line is contents (use hex). If the address is missing, its contents should be replaced with an appropriate amount of 0. In the end provide only contents as string 
+Translate into control rom contents, where the first line is an address at which contents could be read, and the second line is contents. If the address is missing, its contents should be replaced with an appropriate amount of 0. In the end provide only contents as string in hex devided with spaces
 ```
 
 # A prompt to translate a program into machine language
